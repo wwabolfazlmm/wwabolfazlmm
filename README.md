@@ -8,37 +8,57 @@
 
 ### 👨‍💻 About Me
 
-- 💻 I love writing scripts in **Python**, **JavaScript**, and **Bash**
-- 🔐 Passionate about **Linux**, **Cybersecurity**, and building CLI tools
-- 🌱 Currently learning more about **Offensive Security** and **Pentesting**
-- 🚀 Open to collaboration on open-source and security projects
-- 🛠️ Tech Stack: `Python` | `JavaScript` | `HTML/CSS` | `Bash`
+- 🔥 Currently hacking with **Python** 🐍
+- 🛠️ Tech Stack: `Python` | `JavaScript` | `Bash` | `HTML/CSS`  
+- 🌱 Passionate about **Cybersecurity**, **Ethical Hacking**, and building secure tools
+- 🚀 Always learning and collaborating with amazing people on open-source projects
+- 💬 Let's connect and build something cool together!
 
 ---
 
-### 📫 Connect With Me
+### 📈 GitHub Stats
 
-- 🌐 Website: [yourwebsite.com](https://yourwebsite.com) *(if available)*
-- 📬 Email: abolfazl.dev@gmail.com
-- 🐦 Twitter: [@abolfazlmm](https://twitter.com/abolfazlmm)
-- 💼 LinkedIn: [linkedin.com/in/abolfazlmm](https://linkedin.com/in/abolfazlmm)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wwabolfazlmm&show_icons=true&theme=radical&hide_title=true" alt="Abolfazl's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwabolfazlmm&layout=compact&theme=radical" alt="Abolfazl's Top Languages" />
+</p>
 
 ---
 
 ### 🧰 Tools & Technologies
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
-![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/-Bash-333333?style=for-the-badge&logo=gnu-bash" />
+  <img src="https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/-VS_Code-333333?style=for-the-badge&logo=visual-studio-code" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 💬 Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wwabolfazlmm&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wwabolfazlmm&layout=compact&theme=radical" />
-</p>
+- 💼 [LinkedIn](https://linkedin.com/in/abolfazlmm)
+- 🐦 [Twitter](https://twitter.com/abolfazlmm)
+- 🌍 [Personal Website](https://yourwebsite.com) *(optional)*
+
+---
+
+### 💻 Current Project
+
+> 🚧 **Building a mobile-first Python compiler with advanced features!**  
+> 🧠 Let's discuss ideas and collaborate!
+
+---
+
+### 🔥 Fun Fact:
+
+- 🚀 I love solving challenges and continuously improving my **hacking** skills.
+- 🧑‍💻 **Open-source contributions** are my jam! You’ll usually find me contributing to security tools and projects.
+  
+---
+
+### 💡 "Keep calm and **hack** securely." 🔐
